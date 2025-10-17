@@ -134,7 +134,7 @@ const parseYear = (yearString) => {
 
 app.get('/', (req, res) => {
   res.json({
-    message: "Welcome to Spruce API - Musical Time Travel",
+    message: "Welcome to Spruce API",
     version: "1.0.0",
     endpoints: {
       songs: {
@@ -147,7 +147,7 @@ app.get('/', (req, res) => {
       eras: "GET /api/eras",
       stats: "GET /api/stats"
     },
-    documentation: "https://github.com/spruce/api"
+    documentation: "https://github.com/ilovecode17/spruce-api"
   });
 });
 
