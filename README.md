@@ -1,6 +1,6 @@
 # Spruce API
 
-RESTful API for accessing the Spruce database. This API provides programmatic access to over 100 historical musical works spanning from 2100 BC to 2020 AD.
+RESTful API for accessing the [Spruce](https://github.com/ilovecode17/spruce) database. This API provides programmatic access to over 100 historical musical works spanning from 2100 BC to 2020 AD.
 
 ## Live API
 
